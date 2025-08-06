@@ -1,0 +1,9 @@
+.vitepress/i18n/*
+.vitepress/crowdin/*
+!.vitepress/crowdin/en-US
+public/llms.txt
+public/llms-full.txt
+temp
+fr-FR
+es-ES
+ja-JP
